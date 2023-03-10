@@ -9,8 +9,9 @@ Web library on Java Spring framework and Thymeleaf (Java template engine)
 + Java
 + Spring 3
 + Hibernate
++ PostgreSQL
 ### How to start
-+ Clone repository from Github: https://github.com/Art3m1y/scooters-online-store.git
++ Clone repository from Github: https://github.com/Art3m1y/WebLibrary.git
 + Setup Java Development Kit
 + Copy properties from application.properties.origin, create application.properties and set your values
 + Compile and package the application to an executable JAR 
@@ -19,6 +20,6 @@ Web library on Java Spring framework and Thymeleaf (Java template engine)
 + Run project (executable JAR)
 
   ```java -jar scooters-shop-project.jar```
-_If you have followed all the steps, the project will be available at http://<host>:8080_
+_If you have followed all the steps, the project will be available at http://__yourhost__:8080_
 ### SQL statements script for correct project work
 You can find SQL statements script for correct project work on this path: ./src/main/resources/script.sql
