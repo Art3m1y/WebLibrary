@@ -19,4 +19,4 @@ Web library on Java Spring framework and Thymeleaf (Java template engine)
 + Run project (executable JAR)
 
   ```java -jar scooters-shop-project.jar```
-+ If you have followed all the steps, the project will be available at http://<host>:8080
+_If you have followed all the steps, the project will be available at http://<host>:8080_
