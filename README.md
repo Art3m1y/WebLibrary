@@ -7,7 +7,7 @@ Web library on Java Spring framework and Thymeleaf (Java template engine)
 + books pagination
 ### Technologies 
 + Java
-+ Spring 3
++ Spring 6
 + Hibernate
 + PostgreSQL
 ### How to start
